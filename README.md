@@ -15,3 +15,7 @@ These projects will get their own repositories soon :-)
   - Rendering Library
   - Sound Synthesizer stuff
   - Apple IIe stuff
+
+## Website
+
+Check out my website: https://hotfranks.net/ for my blog maybe
